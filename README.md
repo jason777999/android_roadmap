@@ -10,7 +10,7 @@
 
 Based on the [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) that helps web developers with a path of what to learn on this extensive area, we developed the Android Developer Roadmap with the same goal.
 
-We hope that with this roadmap new developers will find it easier to start building beautiful applications.
+We hope that with this roadmap new developers will find it easier to start building beautiful android applications.
 
 ## How to read
 
